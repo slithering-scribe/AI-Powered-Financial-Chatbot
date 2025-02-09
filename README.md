@@ -1,5 +1,5 @@
-# AI-Powered Financial Chatbot (2025)  
-# KI-gesteuerter Finanz-Chatbot (2025)
+# AI-Powered Financial Chatbot  
+# KI-gesteuerter Finanz-Chatbot 
 
 ---
 
